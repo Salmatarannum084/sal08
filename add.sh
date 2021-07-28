@@ -4,3 +4,4 @@ echo "Welcome to the shell scripting"
 pwd
 mkdir dir1
 echo $0
+(7 line not required)
